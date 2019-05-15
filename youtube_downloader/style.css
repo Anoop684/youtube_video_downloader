@@ -1,0 +1,113 @@
+html,body{
+	height: 100%;
+}
+body{
+padding-top: 60px;
+}
+.huge{
+font-size: 40px;
+}
+/*1st panel*/
+.tag-boxes .panel-primary{
+border: 1px solid #2fa4e7;
+border-radius: 3px;
+}
+/*2st panel*/
+.tag-boxes .panel-danger {
+border: 1px solid #c71c22;
+border-radius: 3px;
+}
+.tag-boxes .panel-danger a {
+color:  #c71c22;
+}
+.tag-boxes .panel-danger a:hover {
+color:  #980007;
+}
+/*3st panel*/
+.tag-boxes .panel-warning {
+border: 1px solid #dd5600;
+border-radius: 3px;
+}
+.tag-boxes .panel-warning a {
+color:  #dd5600;
+}
+.tag-boxes .panel-warning a:hover {
+color:  #ff6d10;
+}
+/*4st panel*/
+.tag-boxes .panel-success {
+border: 1px solid #73a839;
+border-radius: 3px;
+}
+.tag-boxes .panel-success a {
+color:  #73a839;
+}
+.tag-boxes .panel-success a:hover {
+color:  #6ed200;
+}
+/*footer*/
+#warpper{
+	min-height: 100%;
+	position: relative;
+}
+.body-section{
+	padding-bottom: 70px;
+}
+footer{
+background: #2fa4e7;
+color: white;
+height: 50px;
+line-height: 50px;
+font-size: 12px;
+position: absolute;
+bottom: 0;
+width: 100%;
+}
+footer a{
+color: white;
+font-weight: bold;
+}
+footer a:hover{
+color: white;
+text-decoration: underline;
+}
+/*glyphicons size*/
+.gi-lg {
+  font-size: 1.33333em;
+  line-height: 0.75em;
+  vertical-align: -.0667em; }
+.gi-xs {
+  font-size: .75em; }
+
+.gi-sm {
+  font-size: .875em; }
+
+.gi-1x {
+  font-size: 1em; }
+
+.gi-2x {
+  font-size: 2em; }
+
+.gi-3x {
+  font-size: 3em; }
+
+.gi-4x {
+  font-size: 4em; }
+
+.gi-5x {
+  font-size: 5em; }
+
+.gi-6x {
+  font-size: 6em; }
+
+.gi-7x {
+  font-size: 7em; }
+
+.gi-8x {
+  font-size: 8em; }
+
+.gi-9x {
+  font-size: 9em; }
+
+.gi-10x {
+  font-size: 10em; }
